@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **👋 Hi, I’m Shashikant Khade, working as a Data Scientist focused on building impactful AI-driven solutions. 🤖 My primary interest lies in Natural Language Processing (NLP) and Large Language Models (LLMs).**
 - I have technical experience and interest in:
-Deep Learning
-Machine Learning
-Computer vision
-Natural Language Processing
-MLOps
-Generative AI
+Deep Learning,
+Machine Learning,
+Computer vision,
+Natural Language Processing,
+MLOps,
+Generative AI.
   
 
 - 📫 How to reach me **shashikantkhaded7@gmail.com**
